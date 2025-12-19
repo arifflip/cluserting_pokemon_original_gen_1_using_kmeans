@@ -1,14 +1,26 @@
 # POKÉMON CLUSTERING (GEN 1)
 
-DESKRIPSI
+
+<img width="2872" height="1075" alt="dashboard_pokemon_merged" src="https://github.com/user-attachments/assets/f430fd5a-d957-4997-b8c1-d1fca6f3ecc6" />
+Dashboard link : https://lookerstudio.google.com/reporting/9573a5c4-3510-4a1d-9a05-97f1aa8b5359  
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+#DESKRIPSI
+
 Proyek ini menerapkan unsupervised clustering (K-Means) pada 151 Pokémon Generasi 1 menggunakan base stats yang diambil dari PokeAPI. Tujuannya adalah menemukan cluster Pokémon berbasis statistik pokemon tersebut.
 
 DATA
+
 Sumber: PokeAPI
 Limitation: Hanya Generasi 1 (151 Pokémon)
 Fitur yang digunakan:
 
 FEATURES
+
 * hp
 * attack
 * defense
@@ -17,6 +29,7 @@ FEATURES
 * speed
 
 METODOLOGI
+
 Algoritma: K-Means
 Jumlah cluster: 4
 Preprocessing: hanya menggunakan fitur numerik tanpa scaling, karena seluruh base stats berada pada skala yang sama
@@ -44,6 +57,7 @@ IMPROVEMENT
 2. Menambahkan Attribut pokemon type  beserta jumlah strong dan weaknessnya terhadap tipe lain.
 
 TECH STACK
+
 Python
 Pandas
 NumPy
