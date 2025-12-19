@@ -1,7 +1,8 @@
 # POKÉMON CLUSTERING (GEN 1)
 
 
-<img width="2872" height="1075" alt="dashboard_pokemon_merged" src="https://github.com/user-attachments/assets/f430fd5a-d957-4997-b8c1-d1fca6f3ecc6" />
+<img width="2872" height="1075" alt="dashboard_pokemon_merged" src="https://github.com/user-attachments/assets/47f4583f-552f-4b9f-9c5c-f4fd6a0297ff" />
+
 Dashboard link : https://lookerstudio.google.com/reporting/9573a5c4-3510-4a1d-9a05-97f1aa8b5359  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
